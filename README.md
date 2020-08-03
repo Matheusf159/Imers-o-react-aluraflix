@@ -8,7 +8,7 @@ Mathflix, projeto realizado na semana da imersão react da Alura tendo base o pr
 <img src="/.github/cadastro.png" width="500" height="350"/> 
 
 <h2><strong>:satellite: Tecnologias</strong></h2>
-Versão Web: React + JavaScript <br>
+React + JavaScript <br>
 
 <h2>:wrench: Sobre as Dependências:</h2>
 
