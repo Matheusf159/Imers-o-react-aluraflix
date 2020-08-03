@@ -1,0 +1,197 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Séries",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Clipes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Desenhos",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/cursos-online-mobile"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Filmes",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Famílias nobres e poderosas disputam um jogo mortal pelo controle dos Sete Reinos de Westeros para assumir o Trono de Ferro.",
+      "url": "https://www.youtube.com/watch?v=rlR4PJn8b8I"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Demolidor",
+      "url": "https://www.youtube.com/watch?v=y3GkQ6yoAA4"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Stranger Things",
+      "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Dark",
+      "url": "https://www.youtube.com/watch?v=rrwycJ08PSA"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Peaky Blinders",
+      "url": "https://www.youtube.com/watch?v=Ruyl8_PT_y8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Vikings",
+      "url": "https://www.youtube.com/watch?v=BA3v1RSssXE"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "The Witcher",
+      "url": "https://www.youtube.com/watch?v=ndl1W4ltcmg"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Ousado Amor",
+      "url": "https://www.youtube.com/watch?v=wSKKEAnLTDw"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Ninguem Explica Deus",
+      "url": "https://www.youtube.com/watch?v=LYsaKn8FRhc"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Aquieta minha alma",
+      "url": "https://www.youtube.com/watch?v=ANfpF0pNob4"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Quero conhecer Jesus",
+      "url": "https://www.youtube.com/watch?v=rBVjbjGVVjo"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Lugar secreto",
+      "url": "https://www.youtube.com/watch?v=YnrN0o0lubM"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Hora de Aventura",
+      "url": "https://www.youtube.com/watch?v=XTuUoeNNrB8"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Bojack Horseman",
+      "url": "https://www.youtube.com/watch?v=i1eJMig5Ik4"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Apenas um Show",
+      "url": "https://www.youtube.com/watch?v=FhKIg8O4AWI"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Ben 10",
+      "url": "https://www.youtube.com/watch?v=opR_2-IBw8E"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "O Senhor dos Anéis",
+      "url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Star Wars",
+      "url": "https://www.youtube.com/watch?v=bD7bpG-zDJQ"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Aranhaverso",
+      "url": "https://www.youtube.com/watch?v=SS6ABPkfmBE"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Vingadores",
+      "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Dark Souls 3",
+      "url": "https://www.youtube.com/watch?v=cWBwFhUv1-8"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "The Last of Us",
+      "url": "https://www.youtube.com/watch?v=W01L70IGBgE"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "God of War 4",
+      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Kingdom Hearts 3",
+      "url": "https://www.youtube.com/watch?v=zrunNL3xsUY"
+    },
+    {
+      "titulo": "Alvo mais que a neve",
+      "url": "https://www.youtube.com/watch?v=u3K8rEiyjAE",
+      "categoriaId": 2,
+      "id": 31
+    }
+  ]
+}

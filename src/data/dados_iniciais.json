@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Séries",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Você não pode superar o destino apenas porque tem medo dele. Henry Cavill é Geralt de Rivia. The Witcher chega em 20 de dezembro.",
+          "url": "https://www.youtube.com/watch?v=ndl1W4ltcmg"
+        },
+        {
+          "titulo": "Stranger Things",
+          "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+        },
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=rrwycJ08PSA"
+        },
+        {
+          "titulo": "Peaky Blinders",
+          "url": "https://www.youtube.com/watch?v=Ruyl8_PT_y8"
+        },
+        {
+          "titulo": "Vikings",
+          "url": "https://www.youtube.com/watch?v=BA3v1RSssXE"
+        },
+        {
+          "titulo": "Game of Thrones ",
+          "url": "https://www.youtube.com/watch?v=rlR4PJn8b8I"
+        },
+        {
+          "titulo": "Demolidor",
+          "url": "https://www.youtube.com/watch?v=y3GkQ6yoAA4"
+        },
+        {
+          "titulo": "Orange is the new black",
+          "url": "https://www.youtube.com/watch?v=fBITGyJynfA"
+        }        
+      ]
+    },
+    {
+      "titulo": "Clipes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Ninguem Explica Deus",
+          "url": "https://www.youtube.com/watch?v=LYsaKn8FRhc"
+        },
+        {
+          "titulo": "Aquieta minha alma",
+          "url": "https://www.youtube.com/watch?v=ANfpF0pNob4"
+        },
+        {
+          "titulo": "Quero conhecer Jesus",
+          "url": "https://www.youtube.com/watch?v=rBVjbjGVVjo"
+        },
+        {
+          "titulo": "Lugar secreto",
+          "url": "https://www.youtube.com/watch?v=YnrN0o0lubM"
+        }, 
+        {
+          "titulo": "Ousado Amor",
+          "url": "https://www.youtube.com/watch?v=wSKKEAnLTDw"
+        }
+      ]
+    },
+    {
+      "titulo": "Desenhos",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Hora de Aventura",
+          "url": "https://www.youtube.com/watch?v=XTuUoeNNrB8"
+        },
+        {
+          "titulo": "Bojack Horseman",
+          "url": "https://www.youtube.com/watch?v=i1eJMig5Ik4"
+        },
+        {
+          "titulo": "Apenas um Show",
+          "url": "https://www.youtube.com/watch?v=FhKIg8O4AWI"
+        },
+        {
+          "titulo": "Ben 10",
+          "url": "https://www.youtube.com/watch?v=opR_2-IBw8E"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "O Senhor dos Anéis",
+          "url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+        },
+        {
+          "titulo": "Star Wars",
+          "url": "https://www.youtube.com/watch?v=bD7bpG-zDJQ"
+        },
+        {
+          "titulo": "Aranhaverso",
+          "url": "https://www.youtube.com/watch?v=SS6ABPkfmBE"
+        },
+        {
+          "titulo": "Vingadores",
+          "url": "https://www.youtube.com/watch?v=t_ULBP6V9bg"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": " ",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Dark Souls 3",
+          "url": "https://www.youtube.com/watch?v=cWBwFhUv1-8"
+        },
+        {
+          "titulo": "The Last of Us",
+          "url": "https://www.youtube.com/watch?v=W01L70IGBgE"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Kingdom Hearts 3",
+          "url": "https://www.youtube.com/watch?v=zrunNL3xsUY"
+        },
+        {
+          "titulo": "Watch Dogs 2",
+          "url": "https://www.youtube.com/watch?v=hh9x4NqW0Dw"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "One Piece",
+          "url": "https://www.youtube.com/watch?v=_JUnsQh9Dsk"
+        },
+        {
+          "titulo": "Naruto",
+          "url": "https://www.youtube.com/watch?v=YsWTD6Pk-S8"
+        },
+        {
+          "titulo": "Boku no Hero",
+          "url": "https://www.youtube.com/watch?v=-77UEct0cZM"
+        },
+        {
+          "titulo": "Hunter x Hunter",
+          "url": "https://www.youtube.com/watch?v=faqmNf_fZlE"
+        },
+        {
+          "titulo": "Fullmetal Alchemist Brotherhood",
+          "url": "https://www.youtube.com/watch?v=AKvvXKGzlOA"
+        }
+      ]
+    }
+  ]
+}
