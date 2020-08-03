@@ -1,9 +1,8 @@
 # Imersão React - Mathflix
 
 <h2><strong>:pushpin: Objetivo</strong></h2>
-<br>
 Mathflix, projeto realizado na semana da imersão react da Alura tendo base o projeto Aluraflix.
-<br>
+<br> <br>
 <img src="/.github/main.png" width="500" height="350"/>
 <img src="/.github/carrossel.png" width="500" height="350"/>
 <img src="/.github/cadastro.png" width="500" height="350"/> 
